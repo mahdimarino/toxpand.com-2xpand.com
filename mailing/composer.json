@@ -1,0 +1,11 @@
+{
+    "name": "toxpand/mail",
+    "autoload": {
+        "psr-4": {
+            "Toxpand\\Mail\\": "src/"
+        }
+    },
+    "require": {
+        "phpmailer/phpmailer": "^6.8"
+    }
+}
